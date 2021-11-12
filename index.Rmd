@@ -25,7 +25,7 @@ PhD student. 2018-
 
 ## Contacto y redes sociales
 Correo electronico: germanmaav@gmail.com  
-Twitter: @GermanRick95  
+![](./img/Twitter_icon.png)Twitter: [GermanRick95](https://twitter.com/GermanRick95)  
 
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
