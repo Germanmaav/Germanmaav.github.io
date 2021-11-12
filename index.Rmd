@@ -5,7 +5,7 @@ title: "My web page"
 output:
   html_document:
     theme: darkly
-  
+
 ---
 Para editar el archivo html en la seccion de output: <enter> html_document: <enter> theme: darkly. 
 Cuando ejeejecutamos knit se ven los cambios. 
@@ -13,15 +13,17 @@ Cuando ejeejecutamos knit se ven los cambios.
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Datos personales
+<img src="./img/IMG_20191103_154614.JPG" width="200" height="200" />
 
-Fecha de nacimiento: 01/08/1995  
+## Datos personales
+German Magaña    
+Fecha de nacimiento: 01/08/1995    
 Edad:26  
 Nacionalidad:Mexicano  
 
 ## Formación académica
 Medico cirujano. 2012-2018  
-PhD student. 2018-  
+PhD student. 2019-  
 
 ## Contacto y redes sociales
 Correo electronico: germanmaav@gmail.com  
